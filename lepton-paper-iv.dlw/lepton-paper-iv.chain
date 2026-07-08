@@ -4,6 +4,6 @@ slug  : lepton-paper-iv
 seal  : 6059d9b13629c2f366c97ef7265b42648b3ded910fcf3e403d4180e53f0ded45
 prev  : b1c3147a8d5b2c5f673074169a82b863732eae93f94aed3d3e91ebc9af47853e
 link  : b8662bbb7cc2f0c894848f46e05b71f5257fac500ab4718325f39d30e7640d52
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
